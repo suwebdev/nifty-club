@@ -4,7 +4,25 @@
    Author's custom styles
    ========================================================================== */
 
+/* ============= LIKE BUTTON ============= */
 
+/* jQuery Like Buttons */
+.qty1 {
+    border: none;
+    width: 20px;
+    background: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* JavaScript Like Button */
+.counter {
+    border: none;
+    width: 20px;
+    background: none;
+    text-align: center;
+    cursor: pointer;
+}
 
 
 
